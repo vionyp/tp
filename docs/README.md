@@ -1,4 +1,4 @@
-# Duke
+# InventoryBRO
 
 {Give product intro here}
 
